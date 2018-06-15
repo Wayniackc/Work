@@ -1,1 +1,18 @@
 https://docs.google.com/document/d/1riIFgqyplIpYQyu5LsWOFfnZzX5VyGHlwD9PRgiv8ZI
+
+Engineer	Calendar Link				Location	Timezone(s)
+Diana 		https://calendly.com/diana_stanley	Americas	PST/PDT/GMT-7
+Davin 		https://calendly.com/davinwalker/support	Americas	MST/MDT/GMT-6
+Cindy		https://calendly.com/cpallares/support	Americas	CST/CDT/GMT-5
+Aric		https://calendly.com/abuerer		Americas	CST/CDT/GMT-5
+Lee		https://calendly.com/lbot			Americas	EST/EDT/GMT-4
+Harish 		https://calendly.com/harishsr		Americas	EST/EDT/GMT-4
+Thiago 		https://calendly.com/tpresa		Americas	GMT-3
+Abubakar 	https://calendly.com/abubakar		EMEA		WAT/GMT+1
+Chenje 		https://calendly.com/ckatanda		EMEA		CAT/GMT+2
+Collen 		https://calendly.com/collen		EMEA		CAT/GMT+2
+Julius 		https://calendly.com/jkvedaras		EMEA 		GMT + 2
+Alex T		https://calendly.com/atanayno		APAC		GMT+7
+Athar 		https://calendly.com/athar		APAC		GMT+8
+Alex S		https://calendly.com/astrachan-gl		APAC		AEST/GMT+10
+Adam 		https://calendly.com/amulvany		
